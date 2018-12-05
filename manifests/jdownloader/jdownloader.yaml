@@ -1,0 +1,8 @@
+id: jdownloader
+name: JDownloader
+version: 2.0
+home: http://jdownloader.org/
+installMethod: Custom
+installers:
+- location: https://sdl.adaware.com/?bundleid=JD001&savename=JDownloaderSetup.exe
+  sha256: c3467621d7f2479bac6fba7afae7b32bc5f3b25f61c562543ab498cdd9c5e33c
